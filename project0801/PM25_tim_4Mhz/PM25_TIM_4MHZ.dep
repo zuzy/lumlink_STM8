@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>259816461</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\code\head.h</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+      <file>$PROJ_DIR$\code\pm2_5.h</file>
+      <file>$PROJ_DIR$\code\gpio.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$PROJ_DIR$\code\dht11.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s003k3.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\code\dht11.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\code\time.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\code\adc.h</file>
+      <file>$PROJ_DIR$\code\convert.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\code\convert.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\code\gpio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\code\lcd1602.c</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\code\adc.c</file>
+      <file>$PROJ_DIR$\code\main.c</file>
+      <file>$PROJ_DIR$\code\lcd1602.h</file>
+      <file>$PROJ_DIR$\code\pm2_5.c</file>
+      <file>$PROJ_DIR$\code\type_def.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\PM25_TIM_4MHZ.pbd</file>
+      <file>$PROJ_DIR$\code\time.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\convert.o</file>
+      <file>$TOOLKIT_DIR$\inc\iostm8s003k3.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\PM25_TIM_4MHZ.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dht11.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pm2_5.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\convert.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pm2_5.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\time.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd1602.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dht11.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd1602.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\time.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\code\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 34 28 24 29 19</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 24 34 38 28 29 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\dht11.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 34 15 25 23 18 36 22 28 20 26 24 32 6 38 19 9 11 5 12 13</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 5 34 38 28 29 19 24 36 32 23 18 15 20 11 26 13 9 25 12 6 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 36 25 28 20 32 34 23 38 19 18 0 16 15 12 13 9 11 26 5 24 21 2</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 0 32 34 38 28 29 19 36 23 18 15 20 11 26 13 9 25 12 16 5 24 21 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\convert.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 29 34 38 19 21</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 21 34 38 28 29 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\lcd1602.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 34 18 25 23 38 20 26 36 29 28 15 12 9 11 32 13</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 32 34 38 28 29 19 36 23 18 15 20 11 26 13 9 25 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34 36 38 28 16 29 19</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 16 36 34 38 28 29 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32 19 34 18 36 15 22 5 2 23 38 12 16 24 21 29 28 25 13 0 20 9 11 26</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 0 32 34 38 28 29 19 36 23 18 15 20 11 26 13 9 25 12 16 5 24 21 2 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\pm2_5.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 25 36 19 23 20 24 32 34 29 28 18 2 16 15 12 13 9 11 26 21</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 2 34 38 28 29 19 24 36 32 23 18 15 20 11 26 13 9 25 12 16 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\PM25_TIM_4MHZ.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 7 41 37 43 45 51 52 44 48 4 1</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

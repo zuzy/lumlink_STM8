@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1287892900</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\lcd1602.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\lcd1602.o</file>
+      <file>$PROJ_DIR$\code\lcd1602.c</file>
+      <file>$PROJ_DIR$\code\lcd1602.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\ADC_zizy.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\time.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$PROJ_DIR$\code\adc.h</file>
+      <file>$PROJ_DIR$\code\type_def.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC_zizy.pbd</file>
+      <file>$PROJ_DIR$\code\time.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\time.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\ADC_zizy.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smf.a</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s003k3.icf</file>
+      <file>$TOOLKIT_DIR$\inc\iostm8s207rb.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smf.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\code\main.c</file>
+      <file>$PROJ_DIR$\code\adc.c</file>
+      <file>$PROJ_DIR$\code\time.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\lcd1602.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 3 9 18 20 21 19 11 28 23 27 32 26 25 24 30 29 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 23 20 26 11 29 30 9 28 18 19 24 25 3 27 31 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\ADC_zizy.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 17 13 1 6 5 16 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 8 9 18 20 21 19 11 3 28 23 27 32 26 25 24 30 29 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 9 23 26 3 21 20 30 11 28 18 19 24 25 8 27 31 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 8 9 18 20 21 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 9 20 8 21 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\code\time.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 11 9 18 20 21 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 9 20 11 21 19</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

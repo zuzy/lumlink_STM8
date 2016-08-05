@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1374</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1030</ColumnWidth1>
+        <ColumnWidth2>274</ColumnWidth2>
+        <ColumnWidth3>68</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>23</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>pm25_value</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths></WATCH_1></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18363-27370</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-17840-27379</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29111-27373</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>PM25_TIM_4MHZ</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7091-27376</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-839-2214</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>25</YPos2><SelStart2>434</SelStart2><SelEnd2>434</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\dht11.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5</YPos2><SelStart2>558</SelStart2><SelEnd2>564</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\time.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>400</SelStart2><SelEnd2>400</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>29</YPos2><SelStart2>1402</SelStart2><SelEnd2>1402</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\convert.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>305</SelStart2><SelEnd2>305</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>6</YPos2><SelStart2>571</SelStart2><SelEnd2>636</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\lcd1602.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>257</YPos2><SelStart2>3081</SelStart2><SelEnd2>3156</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\pm2_5.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>39</YPos2><SelStart2>754</SelStart2><SelEnd2>1179</SelEnd2></Tab><ActiveTab>7</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012068D0><key>iaridepm.enu1</key></Toolbar-012068D0></Sizes></Row0><Row1><Sizes><Toolbar-1167F988><key>debuggergui.enu1</key></Toolbar-1167F988></Sizes></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>725</Bottom><Right>97</Right><x>-2</x><y>-2</y><xscreen>99</xscreen><yscreen>198</yscreen><sizeHorzCX>103992</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>103992</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>725</Bottom><Right>97</Right><x>-2</x><y>-2</y><xscreen>99</xscreen><yscreen>198</yscreen><sizeHorzCX>103992</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>103992</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>95</Left><Bottom>725</Bottom><Right>295</Right><x>95</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>210084</sizeHorzCX><sizeHorzCY>202020</sizeHorzCY><sizeVertCX>210084</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd5></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>196</Bottom><Right>954</Right><x>-2</x><y>-2</y><xscreen>956</xscreen><yscreen>198</yscreen><sizeHorzCX>1004202</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>103992</sizeVertCX><sizeVertCY>200000</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

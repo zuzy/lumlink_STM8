@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>885</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>663</ColumnWidth1><ColumnWidth2>177</ColumnWidth2><ColumnWidth3>44</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>9</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory><item>delay_us</item><item>ReadAdc</item><item>main</item><item>Clk_conf</item><item>delay_1us</item><item>ADC_DB1RH</item></DisasmHistory>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        <item>TVOC</item><item>value_tvoc</item><item>value_ref</item><item>string_adc</item><item>i</item><item>SS</item><item>string</item><item>str</item><item>AdcValue</item><item>temp</item><item>adc_input.AdcJq</item><item>adc_input.AdcTvoc</item><item>adc_input.AdcVref</item><item>value_temp</item><item>value</item><item>AdcValue</item><item>adc_input.AdcVref</item><item></item></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>192</item><item>150</item><item>100</item><item>220</item></col-widths>
+      </WATCH_1>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14462-31061</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-13939-31071</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25210-31064</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Dht11AndAdc</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3191-31068</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15027-1967</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>61</SelStart2><SelEnd2>61</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\type_def.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>463</SelStart2><SelEnd2>475</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\program files (x86)\IAR Systems\Embedded Workbench 7.0\stm8\inc\iostm8s207rb.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>4434</YPos2><SelStart2>149758</SelStart2><SelEnd2>149761</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>356</SelStart2><SelEnd2>364</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\time.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3</YPos2><SelStart2>393</SelStart2><SelEnd2>393</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>30</YPos2><SelStart2>545</SelStart2><SelEnd2>552</SelEnd2></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00ED5FB0><key>iaridepm.enu1</key></Toolbar-00ED5FB0></Sizes></Row0><Row1><Sizes><Toolbar-11B581C0><key>debuggergui.enu1</key></Toolbar-11B581C0></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>723</Bottom><Right>83</Right><x>-2</x><y>-2</y><xscreen>137</xscreen><yscreen>200</yscreen><sizeHorzCX>143908</sizeHorzCX><sizeHorzCY>202020</sizeHorzCY><sizeVertCX>89286</sizeVertCX><sizeVertCY>732323</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes><Wnd6><Rect><Top>360</Top><Left>-2</Left><Bottom>723</Bottom><Right>294</Right><x>-2</x><y>-2</y><xscreen>137</xscreen><yscreen>200</yscreen><sizeHorzCX>143908</sizeHorzCX><sizeHorzCY>202020</sizeHorzCY><sizeVertCX>310924</sizeVertCX><sizeVertCY>732323</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>-2</Top><Left>292</Left><Bottom>723</Bottom><Right>444</Right><x>292</x><y>-2</y><xscreen>137</xscreen><yscreen>200</yscreen><sizeHorzCX>143908</sizeHorzCX><sizeHorzCY>202020</sizeHorzCY><sizeVertCX>159664</sizeVertCX><sizeVertCY>732323</sizeVertCY></Rect></Wnd7></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>954</Right><x>-2</x><y>-2</y><xscreen>956</xscreen><yscreen>200</yscreen><sizeHorzCX>1004202</sizeHorzCX><sizeHorzCY>202020</sizeHorzCY><sizeVertCX>143908</sizeVertCX><sizeVertCY>202020</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

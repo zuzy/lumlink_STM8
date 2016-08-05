@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1862</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1396</ColumnWidth1>
+        <ColumnWidth2>372</ColumnWidth2>
+        <ColumnWidth3>93</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>102</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory>
+          
+          
+          
+        <item>read_pm25_byte</item><item>pm25_read</item><item>0x1C</item></DisasmHistory>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        <item>pm25_value</item><item>TimeCount</item><item>AdcValue</item><item>ret</item><item>temp</item><item>pm_bit</item><item>count</item><item>value[0]</item><item>value[1]</item><item>value[2]</item><item>value[3]</item><item></item></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>158</item></col-widths>
+      </WATCH_1>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14821-20615</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14299-20625</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25570-20618</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>pm25_delay_4mhz</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3550-20622</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7795-20951</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\pm2_5.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>87</SelStart2><SelEnd2>87</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\time.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>357</SelStart2><SelEnd2>357</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>181</SelStart2><SelEnd2>181</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>208</SelStart2><SelEnd2>208</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\pm2_5.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>87</YPos2><SelStart2>1478</SelStart2><SelEnd2>1478</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>140</SelStart2><SelEnd2>150</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\dht11.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>277</SelStart2><SelEnd2>277</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\convert.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>301</SelStart2><SelEnd2>301</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\convert.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>69</SelStart2><SelEnd2>69</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>14</YPos2><SelStart2>844</SelStart2><SelEnd2>844</SelEnd2></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\lcd1602.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>51</YPos2><SelStart2>2367</SelStart2><SelEnd2>2378</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\lcd1602.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5</YPos2><SelStart2>528</SelStart2><SelEnd2>528</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\code\type_def.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>64</XPos2><YPos2>0</YPos2><SelStart2>965</SelStart2><SelEnd2>965</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-025D68D0><key>iaridepm.enu1</key></Toolbar-025D68D0></Sizes></Row0><Row1><Sizes><Toolbar-12201718><key>debuggergui.enu1</key></Toolbar-12201718></Sizes></Row1></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>725</Bottom><Right>176</Right><x>-2</x><y>-2</y><xscreen>99</xscreen><yscreen>198</yscreen><sizeHorzCX>103992</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>186975</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>725</Bottom><Right>42</Right><x>-2</x><y>-2</y><xscreen>99</xscreen><yscreen>198</yscreen><sizeHorzCX>103992</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>46218</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>40</Left><Bottom>725</Bottom><Right>271</Right><x>40</x><y>-2</y><xscreen>99</xscreen><yscreen>198</yscreen><sizeHorzCX>103992</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>242647</sizeVertCX><sizeVertCY>734343</sizeVertCY></Rect></Wnd5></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>196</Bottom><Right>954</Right><x>-2</x><y>-2</y><xscreen>956</xscreen><yscreen>198</yscreen><sizeHorzCX>1004202</sizeHorzCX><sizeHorzCY>200000</sizeHorzCY><sizeVertCX>103992</sizeVertCX><sizeVertCY>200000</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
