@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <toolchain>
+      <name>STM8</name>
+    </toolchain>
+    <debug>1</debug>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <toolchain>
+      <name>STM8</name>
+    </toolchain>
+    <debug>0</debug>
+  </configuration>
+  <file>
+    <name>$PROJ_DIR$\code\adc.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\convert.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\dht11.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\exti_KEY.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\gpio.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\lcd1602.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\main.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\pm2_5.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\time.c</name>
+  </file>
+  <file>
+    <name>$PROJ_DIR$\code\uart.c</name>
+  </file>
+</project>
+
+
